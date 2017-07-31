@@ -1,0 +1,28 @@
+{"frames": [
+
+  {
+    "filename": "button",
+    "frame": {"x":0,"y":0,"w":81,"h":81},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":81,"h":81},
+    "sourceSize": {"w":81,"h":81}
+  },
+  {
+    "filename": "movingPad",
+    "frame": {"x":81,"y":0,"w":97,"h":97},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":87,"h":87},
+    "sourceSize": {"w":87,"h":87}
+  },
+  {
+    "filename": "fixedPad",
+    "frame": {"x":0,"y":99 ,"w":161,"h":161},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":161,"h":161},
+    "sourceSize": {"w":161,"h":161}
+  }],
+  "meta": {}
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Oblivious",
+    "main": "index.html",
+    "version": "0.0.1",
+    "window": {
+        "title": "Oblivious",
+        "width": 640,
+        "height": 360,
+        "resizable": true
+    }
+}
